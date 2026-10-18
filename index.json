@@ -1,0 +1,11 @@
+{
+  "org": "rapidfuzz",
+  "repo": "Levenshtein",
+  "versions": [
+    {
+      "commit": "83575b7b25e51fab746249a95b5104309ae51db1",
+      "tag": "",
+      "parsed_at": "2026-10-18T02:27:48.711890+00:00"
+    }
+  ]
+}
